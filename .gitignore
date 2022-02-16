@@ -19,4 +19,5 @@ _site
 ._*
 .cache
 .DS_Store
+**/.DS_Store
 

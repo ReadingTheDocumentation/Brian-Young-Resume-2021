@@ -3,7 +3,6 @@
 let print = document.querySelector('.print-resume')
 
 print.addEventListener('click', () => {
-    console.log('click happened')
     CreatePDFfromHTML()
 })
 
