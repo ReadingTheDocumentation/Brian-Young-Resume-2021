@@ -20,6 +20,8 @@
 <p align="center">
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ReadingTheDocumentation/DecodeThis/main"
 
+</br>
+
 
 ### Features Added
 I've started to look for work after taking some time off to teach myself web development. As a part of getting back to work, I took a moment to brush off my old personal site and redo my resume. Instead of using Adobe in Design, I built this resume on an existing Bootstrap template I purchased.   
